@@ -6,7 +6,7 @@
 
 
 ## ⚙️ Installation
-Use these commands to get started:
+Use this command to get started:
 ```bash
 git clone https://github.com/sedulix/ToDoList-Onjs
 ```
